@@ -9,6 +9,7 @@ My solutions for the projects included in the Python course by <a href="https://
 
 * Day 1 - [Working with Variables in Python to Manage Data](https://github.com/Aanand-Mishra/100-days-of-code-Python/tree/main/Day%201)
 * Day 2 - [Understanding Data Types and How to Manipulate Strings](https://github.com/Aanand-Mishra/100-days-of-code-Python/tree/main/Day%202)
+* Day 3 - [Control Flow and Logical Operators](https://github.com/Aanand-Mishra/100-days-of-code-Python/tree/main/Day%203)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
